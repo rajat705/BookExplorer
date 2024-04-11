@@ -1,25 +1,27 @@
-<img src="./src/assets/circles.png" height="250px" align="right"/>
-
-<h1 align="center">BOOK Ecommerce STORE USING REACTJS </h1>
+<h1 align="center">E-commerce Web Application (Book Explorer)</h1>
 
 
 # BOOK Shop Description
-    Book Shop is an online React web application where the customer can purchase books online.
-    Through this book store the users can search for a book by its title and
-    later can add to the shopping cart and finally purchase using credit card transaction.
+    Book Explorer application should allow users to view a list of books 
+    and filter them based on specific criteria and it is an online React 
+    web application where the customer can purchase books online. Through 
+    this book store the users can search for a book by its title and later 
+    can add to the shopping cart and finally purchase using credit card 
+    transaction.
     
- ##   [Live App Demo](https://akshatbookstore.netlify.app/)
- 
- 
- ![Alt text](https://github.com/Akshatjalan/Book-store-Reactjs/blob/main/src/assets/Web.jpg?raw=true "Main Page")
 
-# Tools Used
+# Core Features
+`● Book Listing`: Display books with details such as cover image, title, author, and rating.  <br>
+`● Basic Filtering`: Implement functionality to filter books by genre or author. <br>
+`● Responsive Design`: Ensure the app is fully responsive and provides a seamless experience across all devices. <br>
+`● API Integration`: Use the provided API endpoint to fetch and display book data. <br>
+`● Detail View`: Implement a detailed view for each book, showcasing more information when a book is selected.
 
-- Build with `ReactJS`, `Javascript`, `HTML`, `CSS`.
-- `CommerceJS` provides Backend eCommerce APIs for any frontend framework
-- `Stripe` is used as a suite of payment APIs that powers commerce and provides temporary credit card for payment.
-- https://commercejs.com/docs/guides/products-react/ Documentation of CommerceJS to fetch APIs
-- https://stripe.com/docs/stripe-js/react Documentation to connect Stripe with React components for Stripe.js and Stripe Elements
+# Tech Stack
+`● Framework`: ReactJS <br>
+`● Styling`: CSS or Tailwind CSS; focus on responsive design <br>
+`● State Management`: Context API or Redux Toolkit (optional for extra credit) <br>
+`● API Requests`: Utilise Fetch API or Axios for backend communication
 
 
 # Installation 
@@ -48,24 +50,6 @@ See the section about [deployment](#deployment) for more information.
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code> Rajat Nagar </code>
 </h3>
-  <p align="center"> 
-
-  <a href="https://github.com/Akshatjalan">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
-  </a>
-
-  <a href="https://www.linkedin.com/in/akshat-jalan/">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/LinkedIN.svg" width="30" height="30" hspace="20">
-  </a>
-
-  <a href="https://www.instagram.com/akshatxjalan/">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Instagram.svg" width="30" height="30" hspace="20">
-  </a>
-    <a href="mailto:jalanakshat2@gmail.com">
-    <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Gmail.svg"  width="30" height="30" hspace="20">
-  </a>
-
-</p>
-
+ 
